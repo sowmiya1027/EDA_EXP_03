@@ -351,7 +351,6 @@ print("All analysis results saved successfully!")
 # Gini coefficient
 <img width="413" height="87" alt="image" src="https://github.com/user-attachments/assets/f967f244-194f-48af-85f6-36bacd27a3b7" />
 
-<img width="407" height="33" alt="image" src="https://github.com/user-attachments/assets/b27b7a97-8910-4969-833e-75725441481f" />
 
 
 **Interpretation**
